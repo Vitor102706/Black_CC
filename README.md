@@ -15,3 +15,15 @@ ATÉ A PROXIMA <3
 VERSÃO:1.0
 
 conhecimento não é crime!!!
+
+# ♡INSTALAÇÃO♡
+
+git clone https://github.com/BlackHydra40/Black_CC
+
+cd Black_CC
+
+bash install.sh 
+
+python3 blackcc.py
+
+
