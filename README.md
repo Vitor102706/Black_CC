@@ -1,4 +1,4 @@
-# BlackCC
+# BlackCC 💳🟣
 
 ESSE SCRIPT FOI CRIADO POR @ms4010 COM AJUDA DE KUROKO 
 
