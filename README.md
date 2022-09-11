@@ -25,6 +25,6 @@ cd Black_CC
 
 bash install.sh 
 
-python3 black.py
+python3 blackcc.py
 
 Até mais ❤
