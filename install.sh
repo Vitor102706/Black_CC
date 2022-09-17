@@ -194,7 +194,7 @@ finish () {
   info   "└═>█    Instalação completa    █"
   info   "   └═══════════════════════════┘"
   echo
-  info "Executa: \\033[1;32m python3 blackcc.py \\033[0m  para entrar no script ;)"
+  info "Executa: \\033[1;32m python3 black.py \\033[0m  para entrar no script ;)"
   echo
 }
 
