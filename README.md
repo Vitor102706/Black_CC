@@ -26,6 +26,12 @@ bash install.sh
 
 python3 black.py
 
+# comando quando sair atualização nova
+
+bash up.sh
+
+python3 black.py 
+
 # DEMONSTRAÇÃO👨‍💻
 
 https://user-images.githubusercontent.com/112259891/190832700-d8722ff0-ea7e-463a-a424-cdf47c30b858.mp4
@@ -38,9 +44,15 @@ meu pix: maycongg486@gmail.com
 
 Coisas que foram adicionados:
 
-Uma nova tela de entrada.
+Uma nova tela de entrada
+
 Um novo gerador: CNPJ e número de telefone 
+
 Uma nova opção de atualização
+
+Futuramente mais nomes e sobrenome
+
+E talvez um gerador de banco
 
 # 🕵NOTÍCIAS🕵
 
