@@ -12,7 +12,7 @@ SE ALGUEM TIVER VENDENDO ESSE SCRIPT NÃO COMPRE PQ ESSA FERRAMENTA É GRATÍS
 
 ATÉ A PROXIMA <3
 
-VERSÃO:1.2
+VERSÃO:1.3
 
 conhecimento não é crime!!!
 
@@ -33,6 +33,32 @@ https://user-images.githubusercontent.com/112259891/190832700-d8722ff0-ea7e-463a
 # 💳CONTRIBUIR💳
 
 meu pix: maycongg486@gmail.com 
+
+# ⚙ATUALIZAÇÕES⚙
+
+Coisas que foram adicionados:
+
+Uma nova tela de entrada.
+Um novo gerador: CNPJ e número de telefone 
+E futuramente, uma opção 
+para atualização automática 
+
+# 🕵NOTÍCIAS🕵
+
+NOVO SCRIPT SERA LANÇADO:
+UM NOVO GERADO DE CC INFINA DE VÁRIOS PAÍSES.
+E FUTURAMENTE UMA FERRAMENTA DE RASTREAR IP.
+
+FIQUEM ATENTOS 🍷🗿
+
+SE ESCREVEM NO MEU CANAL DO TELEGRAM E DO YOUTUBE:
+
+# 😃CANAIS CONTATO E REDES SOCIAIS😃
+
++55 86 9925-7347
+https://www.facebook.com/MS.BR.15
+https://t.me/MS40_canal
+https://youtube.com/channel/UCvUpwaX2psfaLK6O5PS68Nw
 
 
 
