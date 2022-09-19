@@ -30,7 +30,9 @@ python3 black.py
 
 https://user-images.githubusercontent.com/112259891/190832700-d8722ff0-ea7e-463a-a424-cdf47c30b858.mp4
 
+# 💳CONTRIBUIR💳
 
+meu pix: maycongg486@gmail.com 
 
 
 
