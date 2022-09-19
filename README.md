@@ -47,8 +47,9 @@ para atualização automática
 
 NOVO SCRIPT SERA LANÇADO:
 UM NOVO GERADO DE CC INFINA DE VÁRIOS PAÍSES.
-⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️
+
 https://user-images.githubusercontent.com/112259891/190938312-32682e03-68b2-4a59-a9a2-d6b5b88b931e.mp4
+
 E FUTURAMENTE UMA FERRAMENTA DE RASTREAR IP.
 
 FIQUEM ATENTOS 🍷🗿
