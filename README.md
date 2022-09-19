@@ -18,6 +18,10 @@ conhecimento não é crime!!!
 
 # ♡INSTALAÇÃO♡
 
+pkg update && pkg upgrade 
+
+pkg install git 
+
 git clone https://github.com/BlackHydra40/Black_CC
 
 cd Black_CC
