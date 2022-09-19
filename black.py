@@ -5,7 +5,7 @@ import os
 import sys
 import time
 ##By: MS40
-##t.m:@ms4010
+##telegram @ms4010
 ##meu pix: maycongg486@gmail.com
 
 #COLORES
@@ -18,20 +18,25 @@ celeste = '\033[36;1m'
 plomo = '\033[30;1m'
 close = '\033[0m'
 
-os.system ("toilet -f big 'BEM VINDO' -F gay | lolcat")
+os.system ("toilet -f big 'NICK' -F gay | lolcat")
 print(amarillo)
 nick = str(input(' COLOQUE SEU NICK  : '))
 os.system("clear")
-os.system ("toilet -f big '★ MS40★' -F gay | lolcat")
-os.system ("toilet -f big '★KUROKO★' -F gay | lolcat")
+os.system ("toilet -f big '★By MS40★' -F gay | lolcat")
+os.system ("toilet -f big '★ KUROKO★' -F gay | lolcat")
+time.sleep(3)
+os.system("clear")
+os.system ("toilet -f big '★SEJA★' -F gay | lolcat")
+os.system ("toilet -f big '★BEM VINDO★' -F gay | lolcat")
+os.system ("toilet -f big ' ",nick," ' -F gay | lolcat")
 time.sleep(3)
 os.system("clear")
 os.system ("toilet -f big 'BLACKCCV8' -F gay | lolcat")
-print("\n\033[33;1m OLÁ \033[31;1m★",nick,"★\033[33;1m BEM VINDO AO BLACKCPF \n  FERRAMENTO VOLTADO A CC, GERADORES E BINS\n")
+print("\n\033[33;1m OLÁ \033[31;1m★",nick,"★\033[33;1m BEM VINDO AO BLACK_CC\n")
 print("\033[31;1m         MEU CANAL DO TELEGRAM: MS40_canal \033[32;1m")
 print("\033[34;1m         CRIADO POR MS40 \033[32;1m")
 print("MEU PIX: maycongg486@gmail.com ")
-print('--------------------------------------------------------')
+print('---------------------------------------------------------')
 time.sleep(1)
 
 s = True
@@ -736,7 +741,6 @@ estado2 = [
 
 nume = random.randrange(1, 9999999999999999)
 cvv = random.randint(100, 999)
-data1 = random.randrange(1, 31)
 data2 = random.randrange(1, 12)
 data3 = random.choice(list)
 cpf = random.randrange(11111111111, 99999999999)
@@ -747,7 +751,9 @@ data8 = random.randrange(1, 31)
 data9 = random.randrange(1, 12)
 data0 = random.choice(list2)
 estado = random.choice(estado2)
-
+numero = random.randrange(11111111111, 99999999999)
+cnpj = random.randrange(11111111, 99999999)
+cnpj3 = random.randrange(11, 99)
 bi = str(input('Você deseja continua e aceita o termo de uso ? s ou n?: '))
 
 if bi == 's':
@@ -756,15 +762,19 @@ if bi == 's':
     time.sleep(4)
     print('Número do cartão',nume)
     print('CVV do cartão:',cvv)
-    print('Data do cartão:', data1, data2, data3)
-    print('CPF cadastrado no cartão:', cpf)
-    print('NOME DA PESSOA:', nome, sobrenome)
+    print('Data do cartão:', data2, data3)
+    print('CPF ALEATÓRIO:', cpf)
+    print('NOME DA PESSOA:', nome)
+    print('SOBRENOME:', sobrenome)
     print('DATA DE NASCIMENTO:', data8, data9, data0)
     print('ESTADO:', estado)
-    print("\033[31;1m >>>>---------------------<<<< \033[32;1m")
+    print('numero de telefone:', numero)
+    print("\033[31;1m >>>>------------------------------<<<< \033[32;1m")
+    print('CNPJ', cnpj, cnpj3)
+    print('adicione o 0001 antes do 2 ultimos digitos')
+    print("\033[31;1m >>>>-------------------------------<<<< \033[32;1m")
     print("\033[31;1m >>>>VOLTE SEMPRE MESTRE<<<< \033[32;1m")
     
 else:
-    time.sleep(1)
-    
+    time.sleep(1)  
     print("\033[33;1m não é possivel iniciar a ferramenta. (termo de uso negado!!!) \033[32;1m")
