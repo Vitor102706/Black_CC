@@ -40,8 +40,7 @@ Coisas que foram adicionados:
 
 Uma nova tela de entrada.
 Um novo gerador: CNPJ e número de telefone 
-E futuramente, uma opção 
-para atualização automática 
+Uma nova opção de atualização
 
 # 🕵NOTÍCIAS🕵
 
