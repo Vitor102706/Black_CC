@@ -1,13 +1,12 @@
+
 cd
 rm -rf $HOME/Black_CC
-echo 
-echo "	ATUALIZANDO"
+figlet "ATUALIZANDO" | lolcat
 echo
 
 git clone https://github.com/BlackHydra40/Black_CC
 cd Black_CC
 
 echo
-echo "		UPDATE COMPLETO"
+figlet "UPDATE COMPLETO" | lolcat
 sleep 3
-
