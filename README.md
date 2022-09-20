@@ -12,7 +12,7 @@ SE ALGUEM TIVER VENDENDO ESSE SCRIPT NÃO COMPRE PQ ESSA FERRAMENTA É GRATÍS
 
 ATÉ A PROXIMA <3
 
-VERSÃO:1.4
+VERSÃO:1.5
 
 conhecimento não é crime!!!
 
@@ -33,8 +33,6 @@ python3 black.py
 # comando quando sair atualização nova
 
 bash up.sh
-
-python3 black.py 
 
 # DEMONSTRAÇÃO👨‍💻
 
