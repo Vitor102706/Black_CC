@@ -30,6 +30,20 @@ bash install.sh
 
 python3 black.py
 
+# INSTALAÇÃO NO KALI, UBUNTU E OUTROS💻
+
+sudo apt update && apt upgrade 
+
+apt install git 
+
+git clone https://github.com/BlackHydra40/Black_CC
+
+cd Black_CC
+
+bash install.sh 
+
+python3 black.py
+
 # comando quando sair atualização nova
 
 bash up.sh
