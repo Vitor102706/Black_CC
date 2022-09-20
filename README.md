@@ -52,7 +52,7 @@ Uma nova tela de entrada
 
 Um novo gerador: CNPJ e número de telefone 
 
-Uma nova opção de atualização
+Uma nova opção de atualização com uma pequena melhoria.
 
 Futuramente mais nomes e sobrenome
 
